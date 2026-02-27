@@ -1,10 +1,10 @@
 ---
-title: Aurora Valley University
-subtitle: Bachelor of Information Systems
-startDate: 2010-01-01
-endDate: 2013-12-30
+title: Newcastle University
+subtitle: MComp Computer Science with Games Engineering
+startDate: 2021-09-21
+endDate: 2026-05-24
 logo: '@assets/education/aurora-valley-university/logo.png'
-link: https://lauroguedes.dev
+link: https://www.ncl.ac.uk/
 ---
 - Lorem ipsum dolor sit amet.
 - Consectetur adipiscing elit.

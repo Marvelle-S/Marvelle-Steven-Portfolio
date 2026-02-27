@@ -1,10 +1,10 @@
 ---
-title: Stellaris International University
-subtitle: Computer Technician
-startDate: 2007-06-01
-endDate: 2008-12-30
+title: Greenhead College Sixth Form College
+subtitle: A-Levels in Computer Science, Mathematics and Physics
+startDate: 2019-09-20
+endDate: 2021-06-20
 logo: '@assets/education/stellaris-international-university/logo.png'
-link: https://lauroguedes.dev
+link: https://www.greenhead.ac.uk/
 ---
 - Lorem ipsum dolor sit amet.
 - Consectetur adipiscing elit.

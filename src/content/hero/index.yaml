@@ -1,33 +1,36 @@
-name: 🌻 Bloomfolio
-title: Astro Portfolio Template built with 🌼 DaisyUI
+name: Marvelle Steven
+title: An Aspiring Technical Artist, Software Engineer and 3D Generalist
 description: >-
-  A modern, responsive, and customizable portfolio template built with Astro and
-  DaisyUI. Perfect for developers, designers, and creatives to showcase their
-  work and skills.
+  I am a software engineer and artist, passionate about expanding what I know and composing bigger and better projects. 
+  
+  I hope you enjoy my portfolio!
 avatar: '@assets/hero/avatar.png'
-location: 🇧🇷 Brazil
+location: United Kindgom
 socialLinks:
-  - url: mailto:hello@example.com
+  - url: mailto:marvelle_s@outlook.com
     icon: Email
     label: Email
-  - url: https://github.com/lauroguedes
+  - url: https://github.com/Marvelle-S
     icon: GitHub
     label: GitHub
-  - url: https://linkedin.com/in/lauroguedes
+  - url: https://www.linkedin.com/in/marvelle-steven-14a879216
     icon: LinkedIn
     label: LinkedIn
-  - url: https://twitter.com/leowg
-    icon: Twitter
-    label: X (Twitter)
-  - url: https://bsky.app/profile/lauroguedes.bsky.social
-    icon: Bluesky
-    label: Bluesky
-  - url: https://instagram.com/lauroguedes.dev
+ # - url: https://twitter.com/leowg
+ #   icon: Twitter
+ #   label: X (Twitter)
+ # - url: https://bsky.app/profile/lauroguedes.bsky.social
+ #   icon: Bluesky
+ #   label: Bluesky
+  - url: https://www.instagram.com/st_marvelle_/
     icon: Instagram
     label: Instagram
-  - url: https://youtube.com/leowgweb
-    icon: YouTube
-    label: YouTube
-  - url: https://codetips.cloud/u/lauroguedes
-    icon: FolderCode
-    label: CodeTips
+  # - url: https://youtube.com/leowgweb
+  #   icon: YouTube
+  #   label: YouTube
+  # - url: https://codetips.cloud/u/lauroguedes
+  #   icon: FolderCode
+  #   label: CodeTips
+  - url: https://cara.app/oshunnin
+    icon: Instagram
+    label: Cara
