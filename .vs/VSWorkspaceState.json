@@ -1,16 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\public",
     "\\src",
-    "\\src\\content",
-    "\\src\\content\\blog",
-    "\\src\\content\\contact",
-    "\\src\\content\\work",
-    "\\src\\layouts",
+    "\\src\\assets",
+    "\\src\\content\\projects",
     "\\src\\pages",
-    "\\src\\styles",
-    "\\src\\utils"
+    "\\src\\pages\\projects"
   ],
-  "SelectedNode": "\\src\\content\\work\\TheWaltDisneyCompany.md",
+  "SelectedNode": "\\dist",
   "PreviewInSolutionExplorer": false
 }
