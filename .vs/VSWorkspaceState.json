@@ -1,13 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
     "\\src",
-    "\\src\\assets",
-    "\\src\\content\\projects",
+    "\\src\\components",
+    "\\src\\content",
+    "\\src\\content\\about",
+    "\\src\\content\\blog",
+    "\\src\\content\\contact",
+    "\\src\\layouts",
     "\\src\\pages",
-    "\\src\\pages\\projects"
+    "\\src\\pages\\blog",
+    "\\src\\utils"
   ],
-  "SelectedNode": "\\dist",
+  "SelectedNode": "\\src\\content\\blog\\DeliveryGameCPP.mdoc",
   "PreviewInSolutionExplorer": false
 }
