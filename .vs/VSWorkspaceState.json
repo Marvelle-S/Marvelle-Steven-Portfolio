@@ -1,17 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\components",
-    "\\src\\content",
-    "\\src\\content\\about",
-    "\\src\\content\\blog",
-    "\\src\\content\\contact",
-    "\\src\\layouts",
-    "\\src\\pages",
-    "\\src\\pages\\blog",
-    "\\src\\utils"
+    ""
   ],
-  "SelectedNode": "\\src\\content\\blog\\DeliveryGameCPP.mdoc",
+  "SelectedNode": "\\astro.config.mjs",
   "PreviewInSolutionExplorer": false
 }
