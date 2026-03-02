@@ -11,7 +11,7 @@ import vercel from "@astrojs/vercel";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react(), markdoc(), keystatic()],
-  site: 'https://marvelle-s.github.io'
+  site: 'https://marvelle-s.github.io',
 
   vite: {
     plugins: [tailwindcss()],
