@@ -135,8 +135,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-02T02:35:10.836Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
@@ -148,12 +151,7 @@
               "RelativeToolTip": ".github\\workflows\\deploy.yml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-03-02T03:10:05.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "WhenOpened": "2026-03-02T03:10:05.053Z"
             },
             {
               "$type": "Document",
@@ -211,7 +209,7 @@
               "RelativeDocumentMoniker": "astro.config.mjs",
               "ToolTip": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\astro.config.mjs",
               "RelativeToolTip": "astro.config.mjs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-03-01T17:03:13.613Z",
               "EditorCaption": ""

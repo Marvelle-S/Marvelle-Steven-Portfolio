@@ -12,6 +12,7 @@ import vercel from "@astrojs/vercel";
 export default defineConfig({
   integrations: [react(), markdoc(), keystatic()],
   site: 'https://marvelle-s.github.io',
+  base: '/Marvelle-Steven-Portfolio',
 
   vite: {
     plugins: [tailwindcss()],

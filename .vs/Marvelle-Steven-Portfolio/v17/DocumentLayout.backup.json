@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\astro.config.mjs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:astro.config.mjs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\content\\blog\\UnityGameGreybox.mdoc||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\content\\blog\\UnityGameGreybox.mdoc||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\astro.config.mjs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:astro.config.mjs||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Hackathons.astro",
               "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\components\\Hackathons.astro",
               "RelativeDocumentMoniker": "src\\components\\Hackathons.astro",
@@ -67,12 +71,11 @@
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAEgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-27T23:08:12.177Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "bloomfolio.mdoc",
               "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\content\\projects\\OLD\\bloomfolio.mdoc",
               "RelativeDocumentMoniker": "src\\content\\projects\\OLD\\bloomfolio.mdoc",
@@ -84,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "index.astro",
               "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\pages\\index.astro",
               "RelativeDocumentMoniker": "src\\pages\\index.astro",
@@ -93,12 +96,11 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-02T00:33:45.243Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DeliveryGameCPP.mdoc",
               "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\content\\blog\\DeliveryGameCPP.mdoc",
               "RelativeDocumentMoniker": "src\\content\\blog\\DeliveryGameCPP.mdoc",
@@ -107,12 +109,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-02T02:35:11.776Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OpenGlAnimatedScene.mdoc",
               "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\content\\blog\\OpenGlAnimatedScene.mdoc",
               "RelativeDocumentMoniker": "src\\content\\blog\\OpenGlAnimatedScene.mdoc",
@@ -121,12 +122,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-02T02:35:11.331Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UnityGameGreybox.mdoc",
               "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\content\\blog\\UnityGameGreybox.mdoc",
               "RelativeDocumentMoniker": "src\\content\\blog\\UnityGameGreybox.mdoc",
@@ -135,34 +135,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-02T02:35:10.836Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.astro",
-              "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\pages\\blog\\index.astro",
-              "RelativeDocumentMoniker": "src\\pages\\blog\\index.astro",
-              "ToolTip": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\pages\\blog\\index.astro",
-              "RelativeToolTip": "src\\pages\\blog\\index.astro",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-02T02:30:35.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "welcome-post.md",
-              "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\content\\blog\\welcome-post.md",
-              "RelativeDocumentMoniker": "src\\content\\blog\\welcome-post.md",
-              "ToolTip": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\content\\blog\\welcome-post.md",
-              "RelativeToolTip": "src\\content\\blog\\welcome-post.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-03-02T00:52:40.601Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -170,7 +143,43 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deploy.yml",
+              "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\.github\\workflows\\deploy.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\deploy.yml",
+              "ToolTip": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\.github\\workflows\\deploy.yml",
+              "RelativeToolTip": ".github\\workflows\\deploy.yml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-02T03:10:05.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.astro",
+              "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\pages\\blog\\index.astro",
+              "RelativeDocumentMoniker": "src\\pages\\blog\\index.astro",
+              "ToolTip": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\pages\\blog\\index.astro",
+              "RelativeToolTip": "src\\pages\\blog\\index.astro",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T02:30:35.01Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "welcome-post.md",
+              "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\content\\blog\\welcome-post.md",
+              "RelativeDocumentMoniker": "src\\content\\blog\\welcome-post.md",
+              "ToolTip": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\src\\content\\blog\\welcome-post.md",
+              "RelativeToolTip": "src\\content\\blog\\welcome-post.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-02T00:52:40.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "about.md",
               "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\backup\\content-before-keystatic\\about\\about.md",
               "RelativeDocumentMoniker": "backup\\content-before-keystatic\\about\\about.md",
@@ -178,12 +187,11 @@
               "RelativeToolTip": "backup\\content-before-keystatic\\about\\about.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-03-01T19:38:45.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T19:38:45.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LICENSE",
               "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\LICENSE",
               "RelativeDocumentMoniker": "LICENSE",
@@ -191,18 +199,17 @@
               "RelativeToolTip": "LICENSE",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-01T17:44:08.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T17:44:08.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "astro.config.mjs",
               "DocumentMoniker": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\astro.config.mjs",
               "RelativeDocumentMoniker": "astro.config.mjs",
               "ToolTip": "C:\\Users\\Cetus\\Documents\\GitHub\\Marvelle-Steven-Portfolio\\astro.config.mjs",
               "RelativeToolTip": "astro.config.mjs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-03-01T17:03:13.613Z",
               "EditorCaption": ""
